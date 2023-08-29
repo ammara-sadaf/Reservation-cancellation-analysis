@@ -36,4 +36,4 @@ The project involves analyzing a dataset containing hotel booking information to
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/hotel-booking-cancellations.git
+   git clone https://github.com/Ammara-sadaf/hotel-booking-cancellations.git
